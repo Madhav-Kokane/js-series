@@ -2,7 +2,7 @@ console.log("Variables")
 const accountId=42;
 let accountMail="madhav@google.com";
 var accountPassward="1234";
-let accountState;
+let accountState;//Only Initialization can store undefined as a value in that variable
 
 //We Can Directly reserve memory for any variable without using any Keyword in JS 
 //But Not an proper Way
