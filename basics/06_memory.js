@@ -1,4 +1,4 @@
-//Statck Memory For (Primitive Data Types)
+//Stack Memory For (Primitive Data Types)
 //Heap Memory For (Non-Premitive Data Types)
 
 //JAb Bhi Stack Memory Use Hoti Hain Tab Declared 
